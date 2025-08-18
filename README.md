@@ -76,6 +76,7 @@ A CSV file containing social media posts data with the following columns:
 ---
 
 ## Folder Structure
+```text
 /project
 │
 ├── data/
@@ -85,7 +86,7 @@ A CSV file containing social media posts data with the following columns:
 │ └── social_media_analysis.ipynb
 │
 └── README.md
-
+```
 ---
 
 ## Author
